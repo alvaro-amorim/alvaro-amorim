@@ -2,7 +2,20 @@
 
 Desenvolvedor Full Stack | Entusiasta de I.A. & Edição de Vídeo
 
-<img src='https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white' alt='website' height='25'> <img src='https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='25'> <img src='https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='25'> <img src='https://img.shields.io/badge/curriculum-ff69b4?style=for-the-badge&logo=read.cv&logoColor=white' alt='curriculum' height='25'>
+<p align="left">
+<a href="https://www.comercias.com.br/pt" target="_blank">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website" height="25">
+  </a>
+  <a href="https://www.instagram.com/comerc_ias" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" height="25">
+  </a>
+  <a href="https://www.linkedin.com/in/alvaro-amorim-fullstack" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="25">
+  </a>
+  <a href="https://curriculum-vitae-eight-rouge.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/curriculum-ff69b4?style=for-the-badge&logo=read.cv&logoColor=white" alt="curriculum" height="25">
+  </a>
+</p>
 
 
 
@@ -33,6 +46,6 @@ Habilidades & Tecnologias
 Snake Game das Contribuições
 
 <p align="center">
-*Em breve: o jogo da cobrinha com as suas contribuições aparecerá aqui! Estou preparando o arquivo de automação para isso.*
+<img src="https://raw.githubusercontent.com/alvaro-amorim/alvaro-amorim/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
