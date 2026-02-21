@@ -44,13 +44,10 @@ Também trabalho com **I.A. aplicada** (automação, chatbots, integrações, ge
 
 ---
 
-## Projetos em destaque (fixe no GitHub)
-
-> Dica: clique em **“Customize your pins”** no seu perfil e fixe seus melhores repositórios.
+## Projetos em destaque
 
 - **📌 siteComerc** — Site/landing com foco em conversão (React)
 - **📌 organizador-de-tarefas** — App/estudo de produtividade (Front/Back)
-- **📌 (adicione aqui seu melhor projeto de IA)** — Automação / chatbot / integração
 
 ---
 
