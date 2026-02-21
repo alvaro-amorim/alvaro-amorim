@@ -46,8 +46,8 @@ Também trabalho com **I.A. aplicada** (automação, chatbots, integrações, ge
 
 ## Projetos em destaque
 
-- **📌 siteComerc** — Site/landing com foco em conversão (React)
-- **📌 organizador-de-tarefas** — App/estudo de produtividade (Front/Back)
+- **📌 Site Comerc IA's** — Site/landing com foco em conversão (React)
+- **📌 Gdash Dashboard** — Monitoramento Climático 24h + Insights IA (Microsserviços orientados a eventos)
 
 ---
 
