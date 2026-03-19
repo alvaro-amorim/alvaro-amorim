@@ -47,27 +47,33 @@ Também trabalho com **I.A. aplicada** (automação, chatbots, integrações, ge
 ## Projetos em destaque
 
 - **📌 Site Comerc IAs** — Site/landing com foco em conversão + ADM page Analytics (React)
-**Link:** **https://www.comercias.com.br/pt*
+
+**Link:** *https://www.comercias.com.br/pt*
 
 - **📌 Margem App** — App para calcular e precificar receitas de forma prática com banco de dados e usuários.(Next.js)
-**Link:** **https://margem-app.vercel.app/*
+
+**Link:** *https://margem-app.vercel.app/*
 
 - **📌 Cardápio Glacê Confeitaria** — Site em React com finalização de compra por Whatsapp. Site está integrado ao **Glacê Dashboard**, registrando dados a partir de pedidos. (React)
-**Link:** **https://cardapio-glace.vercel.app/*
+
+**Link:** *https://cardapio-glace.vercel.app/*
 
 - **📌 Glacê Dashboard** — Site para controle de Estoque, Caixa, Pedidos e Cardápio. Integrado ao site de pedidos **Cardápio Glacê**. API Gemini integrada dá insigths e tarefas, além de revelar inconsistências (Next.js)
-**Link:** **https://controle-glace.vercel.app/*
+
+**Link:** *https://controle-glace.vercel.app/*
 
 - **📌 Site Talitta Almeida** — Site Landing para uma corretora imobiliária, com catalogo e formulário de contao. (React)
-**Link:** **https://site-talita.vercel.app/*
+
+**Link:** *https://site-talita.vercel.app/*
 
 - **📌 Gdash Dashboard Analytics** — Monitoramento Climático 24h + Insights IA (Microsserviços orientados a eventos)
-**Link**: **https://gdash-analytics.vercel.app/*
+
+**Link**: *https://gdash-analytics.vercel.app/*
 
 ---
 
 ## Contato
 
-- 🌐 Site: **https://www.comercias.com.br/pt*
-- 💼 LinkedIn: *https://www.linkedin.com/in/alvaro-amorim-fullstack*
-- 📷 Instagram: **https://www.instagram.com/comerc_ias*
+- 🌐 **Site:** *https://www.comercias.com.br/pt*
+- 💼 **LinkedIn:** *https://www.linkedin.com/in/alvaro-amorim-fullstack*
+- 📷 **Instagram:** *https://www.instagram.com/comerc_ias*
