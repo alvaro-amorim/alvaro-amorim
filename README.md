@@ -28,9 +28,9 @@
 Sou desenvolvedor Full Stack com foco em construir produtos web com boa UX, código limpo e entrega rápida.  
 Também trabalho com **I.A. aplicada** (automação, chatbots, integrações, geração de conteúdo) e **edição de vídeo** para marketing e performance.
 
-- 🔧 Web apps com **React/Node**
+- 🔧 Web & Mobile apps com **Typescript/React/Next.js/Node/Python**
 - 🤖 Automações e integrações com **APIs / I.A.**
-- 🎬 Conteúdo e criativos com foco em conversão
+- 🎬 Conteúdo e criativos com foco em conversão gerados com IA
 
 ---
 
@@ -46,7 +46,11 @@ Também trabalho com **I.A. aplicada** (automação, chatbots, integrações, ge
 
 ## Projetos em destaque
 
-- **📌 Site Comerc IA's** — Site/landing com foco em conversão (React)
+- **📌 Site Comerc IAs** — Site/landing com foco em conversão + ADM page Analytics (React)
+- **📌 Margem App** — App para calcular e precificar receitas de forma prática com banco de dados e usuários.(Next.js)
+- **📌 Cardápio Glacê Confeitaria** — Site em React com finalização de compra por Whatsapp. Site está integrado ao **Glacê Dashboard**, registrando dados a partir de pedidos. (React)
+- **📌 Glacê Dashboard** — Site para controle de Estoque, Caixa, Pedidos e Cardápio. Integrado ao site de pedidos **Cardápio Glacê**. API Gemini integrada dá insigths e tarefas, além de revelar inconsistências (Next.js)
+- **📌 Site Talitta** — Site Landing para uma corretora imobiliária, com catalogo e formulário de contao. (React)
 - **📌 Gdash Dashboard** — Monitoramento Climático 24h + Insights IA (Microsserviços orientados a eventos)
 
 ---
