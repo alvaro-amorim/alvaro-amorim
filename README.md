@@ -58,7 +58,7 @@ Também trabalho com **I.A. aplicada** (automação, chatbots, integrações, ge
 
 **Link:** *https://cardapio-glace.vercel.app/*
 
-- **📌 Glacê Dashboard** — Site para controle de Estoque, Caixa, Pedidos e Cardápio. Integrado ao site de pedidos **Cardápio Glacê**. API Gemini integrada dá insigths e tarefas, além de revelar inconsistências (Next.js)
+- **📌 Glacê Dashboard** — Site para controle de Estoque, Caixa, Pedidos e Cardápio. Integrado ao site de pedidos **Cardápio Glacê**. API Gemini integrada gera insigths e tarefas, além de revelar inconsistências (Next.js)
 
 **Link:** *https://controle-glace.vercel.app/*
 
