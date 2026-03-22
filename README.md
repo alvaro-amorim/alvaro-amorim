@@ -27,8 +27,8 @@
 
 Sou desenvolvedor Full Stack com foco em desenvolver aplicações web e mobile escaláveis, com boa UX, código limpo e processos de entrega eficientes.
 Também trabalho com **I.A. aplicada** (automação, chatbots, integrações, geração de conteúdo audiovisual)
-- 🔧 Web & Mobile **Typescript/Javascript/React/Next.js/Node**
-- 🤖 Análise de Dados, Automações e Integrações **Python/ APIs / I.A.**
+- 🔧 Web Apps **Typescript/Javascript/React/Next.js/Node**
+- 🤖 Análise de Dados, Automações e Integrações **Python/Jupyter Notebook/APIs/I.A.**
 
 ---
 
