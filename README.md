@@ -3,7 +3,7 @@
 <h1 align="left">Álvaro Amorim</h1>
 
 <p align="left">
-  Desenvolvedor Full Stack • I.A. aplicada a negócios • Edição de Vídeo
+  Desenvolvedor Full Stack
 </p>
 
 <p align="left">
@@ -25,12 +25,10 @@
 
 ## Sobre mim
 
-Sou desenvolvedor Full Stack com foco em construir produtos web com boa UX, código limpo e entrega rápida.  
-Também trabalho com **I.A. aplicada** (automação, chatbots, integrações, geração de conteúdo) e **edição de vídeo** para marketing e performance.
-
-- 🔧 Web & Mobile apps com **Typescript/React/Next.js/Node/Python**
-- 🤖 Automações e integrações com **APIs / I.A.**
-- 🎬 Conteúdo e criativos com foco em conversão gerados com IA
+Sou desenvolvedor Full Stack com foco em desenvolver aplicações web e mobile escaláveis, com boa UX, código limpo e processos de entrega eficientes.
+Também trabalho com **I.A. aplicada** (automação, chatbots, integrações, geração de conteúdo audiovisual)
+- 🔧 Web & Mobile **Typescript/Javascript/React/Next.js/Node**
+- 🤖 Análise de Dados, Automações e Integrações **Python/ APIs / I.A.**
 
 ---
 
@@ -45,6 +43,14 @@ Também trabalho com **I.A. aplicada** (automação, chatbots, integrações, ge
 ---
 
 ## Projetos em destaque
+
+- **📌 RIVALS AI** — Site de integração entre diferentes IA's que gera discussões personalizadas com foco em entretenimento e humor (Next.js)
+
+**Link**: *https://airivals.com.br/*
+
+- **📌 Gdash Dashboard Analytics** — Monitoramento Climático 24h + Insights IA (Microsserviços orientados a eventos)
+
+**Link**: *https://gdash-analytics.vercel.app/*
 
 - **📌 Site Comerc IAs** — Site/landing com foco em conversão + ADM page Analytics (React)
 
@@ -66,14 +72,11 @@ Também trabalho com **I.A. aplicada** (automação, chatbots, integrações, ge
 
 **Link:** *https://site-talita.vercel.app/*
 
-- **📌 Gdash Dashboard Analytics** — Monitoramento Climático 24h + Insights IA (Microsserviços orientados a eventos)
-
-**Link**: *https://gdash-analytics.vercel.app/*
-
 ---
 
 ## Contato
-
+- 📞 **Whatsapp:** *+55(32)99114-7944)*
+- 📩 **Email:** *alvaroaom.jf@gmail.com*
 - 🌐 **Site:** *https://www.comercias.com.br/pt*
 - 💼 **LinkedIn:** *https://www.linkedin.com/in/alvaro-amorim-fullstack*
 - 📷 **Instagram:** *https://www.instagram.com/comerc_ias*
