@@ -75,7 +75,7 @@ Também trabalho com **I.A. aplicada** (automação, chatbots, integrações, ge
 ---
 
 ## Contato
-- 📞 **Whatsapp:** *+55(32)99114-7944)*
+- 📞 **Whatsapp:** *+55 (32) 99114-7944*
 - 📩 **Email:** *alvaroaom.jf@gmail.com*
 - 🌐 **Site:** *https://www.comercias.com.br/pt*
 - 💼 **LinkedIn:** *https://www.linkedin.com/in/alvaro-amorim-fullstack*
