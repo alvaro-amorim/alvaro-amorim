@@ -50,7 +50,7 @@ Também trabalho com **I.A. aplicada** (automação, chatbots, integrações, ge
 
 - **📌 Gdash Dashboard Analytics** — Monitoramento Climático 24h + Insights IA (Microsserviços orientados a eventos)
 
-**Link**: *https://gdash-analytics.vercel.app/*
+**Link**: *https://gdash.comercias.com.br*
 
 - **📌 Site Comerc IAs** — Site/landing com foco em conversão + ADM page Analytics (React)
 
