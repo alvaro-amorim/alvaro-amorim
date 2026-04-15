@@ -54,11 +54,11 @@ Também trabalho com **I.A. aplicada** (automação, chatbots, integrações, ge
 
 - **📌 Site Comerc IAs** — Site/landing com foco em conversão + ADM page Analytics (React)
 
-**Link:** *https://www.comercias.com.br/pt*
+**Link:** *https://www.comercias.com.br/*
 
 - **📌 Margem App** — App para calcular e precificar receitas de forma prática com banco de dados e usuários.(Next.js)
 
-**Link:** *https://margem-app.vercel.app/*
+**Link:** *https://margemapp.com.br/*
 
 - **📌 Cardápio Glacê Confeitaria** — Site em React com finalização de compra por Whatsapp. Site está integrado ao **Glacê Dashboard**, registrando dados a partir de pedidos. (React)
 
