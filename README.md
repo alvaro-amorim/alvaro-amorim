@@ -1,66 +1,145 @@
+<div align="center">
+
 # Álvaro Amorim
 
-Desenvolvedor Full Stack focado em produtos web, SaaS, automações e integrações com IA.
+### Full Stack Developer · Web Products · SaaS · AI Integrations
 
-Trabalho principalmente com Next.js, React, TypeScript, Node.js, Python, Supabase, Prisma, PostgreSQL e Vercel. Tenho projetos práticos envolvendo autenticação, dashboards administrativos, APIs, billing, bancos de dados, automações e uso de LLMs.
+Desenvolvo produtos web completos, da interface e experiência do usuário à modelagem de dados, APIs, autenticação, billing, automações e operação administrativa.
 
-## Stack principal
+[![Portfolio](https://img.shields.io/badge/Portfólio-Visitar-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://www.comercias.com.br/pt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-amorim-fullstack)
+[![Currículo](https://img.shields.io/badge/Currículo-Visualizar-2563EB?style=for-the-badge&logo=readme&logoColor=white)](https://curriculum-vitae-eight-rouge.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvaroamorimjf@gmail.com)
 
-- Front-end: React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS
-- Back-end & Data: Node.js, Python, APIs REST, PostgreSQL, MongoDB, Prisma, Supabase
-- IA & Automação: LLMs, OpenAI, Gemini e Anthropic quando aplicável, automações, geração de conteúdo e análise
-- Infra & Tools: Git, GitHub, Docker, Vercel, AWS básico, CI/CD
+</div>
+
+---
+
+## Sobre mim
+
+Sou desenvolvedor Full Stack com foco em transformar ideias em produtos funcionais e publicáveis. Minha experiência prática inclui aplicações SaaS, plataformas com IA, dashboards administrativos, sistemas de autenticação e autorização, pagamentos, bancos relacionais, automações e integrações com serviços externos.
+
+Atualmente busco oportunidades como **Desenvolvedor Full Stack**, **Front-end React/Next.js** ou **Back-end Node.js**, com preferência por trabalho remoto e ambientes em que eu possa contribuir com produto, arquitetura e evolução técnica.
+
+## Tecnologias principais
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,nodejs,python,postgres,supabase,prisma,tailwind,docker,git,github,vercel,aws&perline=8" alt="Tecnologias utilizadas por Álvaro Amorim" />
+
+</div>
+
+| Área | Tecnologias e competências |
+|---|---|
+| **Front-end** | Next.js, React, TypeScript, JavaScript, Tailwind CSS, interfaces responsivas e acessíveis |
+| **Back-end** | Node.js, Python, APIs REST, regras de negócio, autenticação e integrações |
+| **Dados** | PostgreSQL, Supabase, Prisma, MongoDB e modelagem relacional |
+| **IA e automação** | OpenAI, Gemini, Anthropic, fluxos com LLMs, geração e análise de conteúdo |
+| **Qualidade e entrega** | Git, GitHub, Docker, Vercel, CI/CD, Vitest, Playwright e documentação técnica |
+
+---
 
 ## Projetos em destaque
 
-### Margem App
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Margem App](https://github.com/alvaro-amorim/margem-app)
 
 SaaS para gestão de ingredientes, fichas técnicas, precificação de receitas e rotulagem nutricional.
 
-**Stack:** Next.js, React, TypeScript, Prisma, Supabase, PostgreSQL, Tailwind CSS, IA, AbacatePay
+**Destaques técnicos**
+- Arquitetura SaaS multi-workspace
+- Autenticação, billing e entitlements
+- Prisma, Supabase e PostgreSQL
+- OCR e integrações com IA
+- Painel administrativo e testes E2E
 
-**Demonstra:** arquitetura SaaS, multi-workspace, autenticação, billing, módulos administrativos, banco de dados e integrações com IA.
+**Stack:** Next.js 16, React 19, TypeScript, Prisma, PostgreSQL, Supabase, Tailwind CSS, Playwright
 
-**Status:** projeto próprio / MVP funcional com versão em produção.
+[Aplicação em produção](https://margemapp.com.br/)
 
-### Rivals AI
+</td>
+<td width="50%" valign="top">
+
+### [Rivals AI](https://github.com/alvaro-amorim/RIVAL)
 
 Rede social de entretenimento para criação, publicação e descoberta de debates gerados por IA.
 
-**Stack:** Next.js, React, TypeScript, Supabase, Tailwind CSS, APIs de IA, AbacatePay
+**Destaques técnicos**
+- Feed, perfis e interações sociais
+- Streaming de conteúdo gerado por IA
+- Billing, tokens e planos
+- Painel de moderação e analytics
+- Testes unitários, integração e segurança
 
-**Demonstra:** feed público, perfis, publicação, interações sociais, tokens, billing, painel administrativo e integração com provedores de IA.
+**Stack:** Next.js 16, React 19, TypeScript, Supabase, Tailwind CSS, Vitest, Playwright
 
-**Status:** projeto próprio / em desenvolvimento com versão publicada.
+[Aplicação em produção](https://www.airivals.com.br/)
 
-### Glacê Confeitaria / Controle Glacê
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Ecossistema web com cardápio online, pedidos via WhatsApp, controle operacional e dashboard interno.
+### [Controle Glacê](https://github.com/alvaro-amorim/ControleGlace)
 
-**Stack:** React, Next.js, TypeScript, MongoDB, Gemini API, APIs e dashboard administrativo
+Sistema operacional para uma confeitaria, integrado a um cardápio digital e ao fluxo de pedidos.
 
-**Demonstra:** catálogo, checkout assistido, integração entre front-end e back-end, dashboard, controle de pedidos/estoque e IA aplicada à operação.
+**Demonstra:** dashboards, gestão de pedidos e estoque, integração entre aplicações e IA aplicada à operação.
 
-**Status:** projeto prático / case aplicado.
+**Ecossistema:** [Cardápio Glacê](https://github.com/alvaro-amorim/cardapio-glace)
 
-### Comerc IAs
+</td>
+<td width="50%" valign="top">
 
-Site institucional com área administrativa, conteúdo gerenciável e acompanhamento de métricas.
+### [Comerc IAs](https://github.com/alvaro-amorim/Comerc.IAs)
 
-**Stack:** Next.js, React, Node.js, Supabase, analytics
+Plataforma institucional com conteúdo gerenciável, área administrativa e acompanhamento de métricas.
 
-**Demonstra:** site institucional, autenticação, admin, analytics, upload de mídia e organização comercial.
+**Demonstra:** Next.js, autenticação, administração de conteúdo, analytics, mídia e organização comercial.
 
-**Status:** projeto próprio / site em produção.
+[Site em produção](https://www.comercias.com.br/pt)
 
-## O que estou buscando
+</td>
+</tr>
+</table>
 
-Oportunidades como Desenvolvedor Full Stack, Front-end React/Next.js ou projetos envolvendo produtos web, SaaS, automações e IA aplicada.
+### Outros projetos autorais
 
-## Links
+- [Symphor.ai](https://github.com/alvaro-amorim/symphor.ai)
+- [SDR CRM AI](https://github.com/alvaro-amorim/sdr-crm-ai)
+- [BabyBook](https://github.com/alvaro-amorim/babybook)
+- [LayerArt Store](https://github.com/alvaro-amorim/layerart.store)
+- [Monitoramento Bitcoin](https://github.com/alvaro-amorim/monitoramento-bitcoin)
+- [Visualizador 3D GLB](https://github.com/alvaro-amorim/visualizador-3d-glb)
+- [Análise de cancelamentos de clientes](https://github.com/alvaro-amorim/analise-dados-cancelamentos-de-clientes)
+- [Portfólio de cases](https://github.com/alvaro-amorim/portfolio-cases)
 
-- Portfólio: https://www.comercias.com.br/pt
-- Currículo: https://curriculum-vitae-eight-rouge.vercel.app/
-- LinkedIn: https://www.linkedin.com/in/alvaro-amorim-fullstack
-- GitHub: https://github.com/alvaro-amorim
-- Email: alvaroaom.jf@gmail.com
+---
+
+## O que meus projetos demonstram
+
+- Desenvolvimento de aplicações completas, do conceito à publicação.
+- Organização de regras de negócio e modelagem de dados.
+- Construção de áreas públicas, autenticadas e administrativas.
+- Integração de pagamentos, serviços de IA e APIs externas.
+- Preocupação com testes, segurança, observabilidade e documentação.
+- Capacidade de aprender novas tecnologias e aplicá-las em produtos reais.
+
+## Formação prática
+
+Além dos projetos autorais, este perfil contém uma sequência de projetos acadêmicos identificados como `MUNDO` e `NÍVEL`. Eles registram minha evolução em desenvolvimento web, React, Next.js, back-end, bancos de dados e construção de aplicações ao longo da formação.
+
+---
+
+<div align="center">
+
+### Vamos conversar?
+
+Estou disponível para oportunidades profissionais, colaboração em produtos e projetos de desenvolvimento web.
+
+[LinkedIn](https://www.linkedin.com/in/alvaro-amorim-fullstack) · [Portfólio](https://www.comercias.com.br/pt) · [Currículo](https://curriculum-vitae-eight-rouge.vercel.app/) · [Email](mailto:alvaroamorimjf@gmail.com)
+
+</div>
