@@ -30,7 +30,7 @@ Parte dos trabalhos comerciais permanece em **repositórios privados** por confi
 - Back-end Node.js
 - Projetos envolvendo SaaS, automação e IA aplicada
 
-📍 Brasil · Disponível para trabalho remoto
+📍 Brasil · Disponível para trabalho presencial e remoto
 
 ---
 
