@@ -4,7 +4,7 @@
 
 **Desenvolvedor Full Stack · Produtos Web · SaaS · Inteligência Artificial**
 
-Transformo ideias e necessidades de negócio em aplicações web completas, publicáveis e preparadas para evoluir.
+Transformo ideias e necessidades de negócio em aplicações completas, publicáveis e preparadas para evoluir.
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-111827?style=flat-square&logo=vercel&logoColor=white)](https://www.comercias.com.br/pt)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-amorim-fullstack)
