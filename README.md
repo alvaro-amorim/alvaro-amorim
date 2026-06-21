@@ -7,6 +7,7 @@
 Transformo ideias e necessidades de negócio em aplicações completas, publicáveis e preparadas para evoluir.
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-111827?style=flat-square&logo=vercel&logoColor=white)](https://www.comercias.com.br/pt)
+[![Fluxo](https://img.shields.io/badge/Fluxo-Editor_de_fluxogramas-f97316?style=flat-square&logo=vercel&logoColor=white)](https://fluxo-nine-theta.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-amorim-fullstack)
 [![Currículo](https://img.shields.io/badge/Currículo-2563EB?style=flat-square&logo=readme&logoColor=white)](https://curriculum-vitae-eight-rouge.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alvaroamorimjf@gmail.com)
@@ -21,6 +22,8 @@ Sou desenvolvedor Full Stack com experiência prática na construção de **prod
 
 Atuo desde a interface e experiência do usuário até banco de dados, APIs, autenticação, pagamentos, painéis administrativos, automações e integrações com inteligência artificial.
 
+Tenho foco em transformar problemas reais em produtos utilizáveis: estruturo a ideia, desenvolvo a aplicação, publico em produção, documento o projeto e evoluo com base em uso real.
+
 Parte dos trabalhos comerciais permanece em **repositórios privados** por confidencialidade e proteção do código dos clientes. Esses projetos incluem sites e sistemas atualmente publicados e em uso real.
 
 **Busco oportunidades como:**
@@ -28,7 +31,7 @@ Parte dos trabalhos comerciais permanece em **repositórios privados** por confi
 - Desenvolvedor Full Stack
 - Front-end React / Next.js
 - Back-end Node.js
-- Projetos envolvendo SaaS, automação e IA aplicada
+- Produtos SaaS, automações e IA aplicada
 
 📍 Brasil · Disponível para trabalho presencial e remoto
 
@@ -57,6 +60,27 @@ Parte dos trabalhos comerciais permanece em **repositórios privados** por confi
 ### IA, qualidade e entrega
 
 `OpenAI` · `Gemini` · `Anthropic` · `Vitest` · `Jest` · `Playwright` · `Docker` · `Vercel` · `GitHub Actions`
+
+---
+
+## Projeto em evidência
+
+### Fluxo
+
+**Editor web gratuito para criar, organizar e exportar fluxogramas diretamente no navegador.**
+
+O Fluxo foi desenvolvido como um produto autoral publicado em produção, com foco em UX, edição visual, exportação/importação de arquivos e experiência fluida no canvas.
+
+- Editor visual com blocos, formas SVG, setas, linhas e conexões bidirecionais
+- Roteamento visual com obstáculos sólidos, corredores exclusivos e prevenção de sobreposição entre blocos
+- Atalhos contextuais para forma, cor, linha e seta
+- Importação/exportação `.flow`, exportação PNG, zoom amplo e modo apresentação
+- Páginas públicas, SEO básico, termos, privacidade e documentação de deploy
+- Deploy em produção na Vercel
+
+`React` `TypeScript` `Vite` `TanStack Router` `@xyflow/react` `Vercel`
+
+[Repositório](https://github.com/alvaro-amorim/fluxo) · [Aplicação em produção](https://fluxo-nine-theta.vercel.app/)
 
 ---
 
