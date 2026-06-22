@@ -134,6 +134,22 @@ O Fluxo foi desenvolvido como um produto autoral publicado em produção, com fo
 
 ---
 
+### LayerArt Store
+
+**Loja online para impressão 3D personalizada, com catálogo, chat de orçamento, área administrativa e analytics próprio.**
+
+- Vitrine responsiva com portfólio, páginas SEO e CTAs contextuais
+- Modal de produto com mídias, características, cores, materiais e faixa de preço
+- Chat de pré-atendimento com IA, fallback local e persistência de conversas
+- Admin com gestão de catálogo, conteúdo, leads em Kanban, exportações e relatórios
+- Supabase com RLS, Cloudinary para uploads e deploy na Vercel
+
+`Next.js 16` `React 19` `TypeScript` `Supabase` `Cloudinary` `OpenAI` `Tailwind CSS` `Vercel`
+
+[Repositório privado](https://github.com/alvaro-amorim/layerart.store) · [Site em produção](https://layerart-store.vercel.app/)
+
+---
+
 ### SDR Expert CRM
 
 **CRM multi-tenant para operação comercial com pipeline, campanhas e mensagens assistidas por IA.**
@@ -192,7 +208,6 @@ A privacidade desses repositórios protege o código-fonte, as regras comerciais
 
 - [Symphor.ai](https://github.com/alvaro-amorim/symphor.ai)
 - [BabyBook](https://github.com/alvaro-amorim/babybook)
-- [LayerArt Store](https://github.com/alvaro-amorim/layerart.store)
 - [Monitoramento Bitcoin](https://github.com/alvaro-amorim/monitoramento-bitcoin)
 - [Visualizador 3D GLB](https://github.com/alvaro-amorim/visualizador-3d-glb)
 - [Análise de cancelamentos de clientes](https://github.com/alvaro-amorim/analise-dados-cancelamentos-de-clientes)
