@@ -80,7 +80,7 @@ O Fluxo foi desenvolvido como um produto autoral publicado em produção, com fo
 
 `React` `TypeScript` `Vite` `TanStack Router` `@xyflow/react` `Vercel`
 
-[Repositório](https://github.com/alvaro-amorim/fluxo) · [Aplicação em produção](https://fluxo-nine-theta.vercel.app/)
+[Acessar aplicação](https://fluxo-nine-theta.vercel.app/) · [Repositório](https://github.com/alvaro-amorim/fluxo)
 
 ---
 
@@ -98,7 +98,7 @@ O Fluxo foi desenvolvido como um produto autoral publicado em produção, com fo
 
 `Next.js 16` `React 19` `TypeScript` `PostgreSQL` `Prisma` `Supabase` `Playwright`
 
-[Repositório](https://github.com/alvaro-amorim/margem-app) · [Aplicação em produção](https://margemapp.com.br/)
+[Acessar aplicação](https://margemapp.com.br/) · [Repositório](https://github.com/alvaro-amorim/margem-app)
 
 ---
 
@@ -114,7 +114,7 @@ O Fluxo foi desenvolvido como um produto autoral publicado em produção, com fo
 
 `Next.js 16` `React 19` `TypeScript` `Supabase` `Vitest` `Playwright`
 
-[Repositório](https://github.com/alvaro-amorim/RIVAL) · [Aplicação em produção](https://www.airivals.com.br/)
+[Acessar aplicação](https://www.airivals.com.br/) · [Repositório](https://github.com/alvaro-amorim/RIVAL)
 
 ---
 
@@ -130,7 +130,7 @@ O Fluxo foi desenvolvido como um produto autoral publicado em produção, com fo
 
 `Next.js` `React` `TypeScript` `MongoDB` `Mongoose` `Gemini` `Jest`
 
-[Repositório](https://github.com/alvaro-amorim/ControleGlace) · [Cardápio integrado](https://github.com/alvaro-amorim/cardapio-glace)
+Projeto comercial em produção com repositórios privados por confidencialidade.
 
 ---
 
@@ -146,7 +146,7 @@ O Fluxo foi desenvolvido como um produto autoral publicado em produção, com fo
 
 `Next.js 16` `React 19` `TypeScript` `Supabase` `Cloudinary` `OpenAI` `Tailwind CSS` `Vercel`
 
-[Repositório privado](https://github.com/alvaro-amorim/layerart.store) · [Site em produção](https://layerart-store.vercel.app/)
+[Acessar site](https://layerart-store.vercel.app/)
 
 ---
 
@@ -162,7 +162,7 @@ O Fluxo foi desenvolvido como um produto autoral publicado em produção, com fo
 
 `React 19` `TypeScript` `Vite` `Supabase` `PostgreSQL` `OpenAI` `Vitest`
 
-[Repositório](https://github.com/alvaro-amorim/sdr-crm-ai) · [Demonstração](https://sdr-crm-ai-wine.vercel.app/) · [Vídeo](https://youtu.be/tDCifuSgRc0)
+[Acessar demonstração](https://sdr-crm-ai-wine.vercel.app/) · [Vídeo](https://youtu.be/tDCifuSgRc0) · [Repositório](https://github.com/alvaro-amorim/sdr-crm-ai)
 
 ---
 
@@ -178,7 +178,7 @@ O Fluxo foi desenvolvido como um produto autoral publicado em produção, com fo
 
 `Next.js 16` `React 19` `TypeScript` `Supabase` `Recharts` `Vercel`
 
-[Repositório](https://github.com/alvaro-amorim/Comerc.IAs) · [Site em produção](https://www.comercias.com.br/pt)
+[Acessar site](https://www.comercias.com.br/pt) · [Repositório](https://github.com/alvaro-amorim/Comerc.IAs)
 
 ---
 
@@ -206,12 +206,13 @@ A privacidade desses repositórios protege o código-fonte, as regras comerciais
 
 <br />
 
-- [Symphor.ai](https://github.com/alvaro-amorim/symphor.ai)
-- [BabyBook](https://github.com/alvaro-amorim/babybook)
-- [Monitoramento Bitcoin](https://github.com/alvaro-amorim/monitoramento-bitcoin)
-- [Visualizador 3D GLB](https://github.com/alvaro-amorim/visualizador-3d-glb)
-- [Análise de cancelamentos de clientes](https://github.com/alvaro-amorim/analise-dados-cancelamentos-de-clientes)
-- [Portfólio de cases técnicos](https://github.com/alvaro-amorim/portfolio-cases)
+- [Portfólio público](https://www.comercias.com.br/pt)
+- [Currículo online](https://curriculum-vitae-eight-rouge.vercel.app/)
+- Symphor.ai — protótipo em reestruturação; link público será adicionado quando publicado.
+- BabyBook — protótipo/estudo; link público será adicionado quando publicado.
+- Monitoramento Bitcoin — estudo técnico sem página pública publicada no momento.
+- Visualizador 3D GLB — aplicação desktop/estudo local sem página pública publicada no momento.
+- Análise de cancelamentos de clientes — notebook exploratório sem página pública publicada no momento.
 
 </details>
 
