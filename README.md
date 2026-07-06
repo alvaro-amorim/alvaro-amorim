@@ -2,13 +2,13 @@
 
 # Álvaro Amorim
 
-**Desenvolvedor Full Stack · Produtos Web · SaaS · IA aplicada · Dados**
+**Desenvolvedor Full Stack · React/Next.js · Node/Python · SaaS · IA aplicada**
 
-Crio aplicações completas: da modelagem da ideia ao deploy, passando por interface, APIs, banco de dados, autenticação, automações, IA, documentação e evolução em produção.
+Desenvolvo produtos web de ponta a ponta: interface, APIs, banco de dados, autenticação, dashboards, integrações, automações, IA e deploy.
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-111827?style=flat-square&logo=vercel&logoColor=white)](https://www.comercias.com.br/pt)
-[![Cases](https://img.shields.io/badge/Cases-Portfolio-7c3aed?style=flat-square&logo=github&logoColor=white)](https://github.com/alvaro-amorim/portfolio-cases)
 [![Fluxo](https://img.shields.io/badge/Fluxo-Editor_de_fluxogramas-f97316?style=flat-square&logo=vercel&logoColor=white)](https://fluxo-nine-theta.vercel.app/)
+[![Cases](https://img.shields.io/badge/Cases-Portfolio-7c3aed?style=flat-square&logo=github&logoColor=white)](https://github.com/alvaro-amorim/portfolio-cases)
 [![Currículo](https://img.shields.io/badge/Currículo-2563EB?style=flat-square&logo=readme&logoColor=white)](https://curriculum-vitae-eight-rouge.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-amorim-fullstack)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alvaroamorimjf@gmail.com)
@@ -19,18 +19,13 @@ Crio aplicações completas: da modelagem da ideia ao deploy, passando por inter
 
 ## Sobre mim
 
-Sou desenvolvedor Full Stack com foco em transformar problemas reais em produtos utilizáveis, publicados e documentados. Trabalho principalmente com **React, Next.js, TypeScript, Node.js, Python, Supabase, PostgreSQL, MongoDB, Vercel e integrações com IA**.
+Sou desenvolvedor Full Stack com foco em **produtos web, SaaS, sistemas internos e aplicações com inteligência artificial**.
 
-Tenho experiência prática construindo **produtos próprios, sistemas internos, sites comerciais, dashboards, APIs, automações e MVPs com IA aplicada**. Em alguns projetos atuei no ciclo completo: levantamento do problema, arquitetura, modelagem de dados, interface, backend, deploy, testes, documentação e evolução com base em uso real.
+Atuo na construção de soluções completas: estruturação do produto, arquitetura, interface, backend, banco de dados, autenticação, áreas administrativas, integrações externas, deploy e documentação técnica.
 
-Parte dos trabalhos comerciais permanece em **repositórios privados** por se tratar de projetos de clientes ou produtos em operação. Quando possível, mantenho links públicos de produção e cases documentados.
+Meu portfólio atual prioriza projetos mais recentes e aplicados, especialmente produtos próprios, MVPs em produção e sistemas com uso real. Repositórios antigos de estudo e exercícios acadêmicos não estão destacados aqui para manter a apresentação objetiva e profissional.
 
-**Busco oportunidades como:**
-
-- Desenvolvedor Full Stack
-- Desenvolvedor Front-end React / Next.js
-- Desenvolvedor Back-end Node.js / Python
-- Produtos SaaS, automações, dados e IA aplicada
+**Interesses profissionais:** Full Stack · Front-end React/Next.js · Back-end Node/Python · SaaS · Automações · IA aplicada
 
 📍 Brasil · Disponível para trabalho presencial e remoto
 
@@ -48,86 +43,106 @@ Parte dos trabalhos comerciais permanece em **repositórios privados** por se tr
 
 </div>
 
-### Front-end
+**Front-end:** `Next.js` · `React` · `TypeScript` · `JavaScript` · `Tailwind CSS` · `Vite` · `HTML` · `CSS`
 
-`Next.js` · `React` · `TypeScript` · `JavaScript` · `Tailwind CSS` · `Vite` · `HTML` · `CSS`
+**Back-end e dados:** `Node.js` · `Python` · `FastAPI` · `APIs REST` · `PostgreSQL` · `Supabase` · `Prisma` · `MongoDB`
 
-### Back-end, dados e infraestrutura
-
-`Node.js` · `Python` · `FastAPI` · `APIs REST` · `PostgreSQL` · `Supabase` · `Prisma` · `MongoDB` · `Docker` · `Vercel`
-
-### IA, qualidade e produto
-
-`OpenAI` · `Gemini` · `Cohere` · `Anthropic` · `LLM apps` · `Vitest` · `Jest` · `Playwright` · `pytest` · `GitHub Actions`
+**IA, testes e entrega:** `OpenAI` · `Gemini` · `Cohere` · `Vitest` · `Jest` · `Playwright` · `pytest` · `Docker` · `Vercel`
 
 ---
 
-## Projetos principais
+## Projetos selecionados
 
-| Projeto | Tipo | O que demonstra | Links |
-|---|---|---|---|
-| **Fluxo** | Produto autoral | Editor visual de fluxogramas com canvas, formas, setas, importação/exportação, atalhos e modo apresentação | [App](https://fluxo-nine-theta.vercel.app/) · [Repo](https://github.com/alvaro-amorim/fluxo) |
-| **Audio Emotion API** | API experimental | Processamento de áudio com transcrição, métricas acústicas, interpretação emocional e JSON para agentes de IA | [API](https://github.com/alvaro-amorim/emotion-api) · [Client](https://github.com/alvaro-amorim/audio-emotion-client-demo) |
-| **Margem App** | SaaS | Multi-workspace, precificação, ficha técnica, tabela nutricional, IA, autenticação, planos e painel administrativo | [App](https://margemapp.com.br/) · [Case](https://github.com/alvaro-amorim/portfolio-cases/blob/main/cases/margem-app.md) |
-| **Rivals AI** | Produto social com IA | Feed público, perfis, arena autenticada, streaming, múltiplos provedores de IA, planos e painel administrativo | [App](https://www.airivals.com.br/) · [Case](https://github.com/alvaro-amorim/portfolio-cases/blob/main/cases/rivals-ai.md) |
-| **Ecossistema Glacê** | Sistema comercial | Dashboard interno, pedidos, estoque, financeiro, cardápio digital, permissões, auditoria e integração entre front/back | [Dashboard](https://controle-glace.vercel.app/) · [Cardápio](https://cardapio-glace.vercel.app/) · [Case](https://github.com/alvaro-amorim/portfolio-cases/blob/main/cases/glace-confeitaria.md) |
-| **LayerArt Store** | Loja online | Catálogo, chat de orçamento, painel admin, leads em Kanban, analytics, upload de mídia e IA configurável | [App](https://layerart-store.vercel.app/) |
-| **Comerc IAs** | Site institucional | Plataforma bilíngue com portfólio, catálogo comercial, analytics, consentimento e gestão de conteúdo | [Site](https://www.comercias.com.br/pt) · [Case](https://github.com/alvaro-amorim/portfolio-cases/blob/main/cases/comerc-ias.md) |
-| **SDR Expert CRM** | CRM com IA | Workspaces, pipeline comercial, campanhas, mensagens assistidas por IA, Supabase/RLS e Edge Functions | [Demo](https://sdr-crm-ai-wine.vercel.app/) · [Vídeo](https://youtu.be/tDCifuSgRc0) · [Repo](https://github.com/alvaro-amorim/sdr-crm-ai) |
-| **GDASH Analytics** | Full stack de dados | Frontend React, API NestJS, MongoDB, RabbitMQ, worker Go, coletor Python e insights com IA/fallback | [App](https://gdash-project-challenge.vercel.app/) · [Repo](https://github.com/alvaro-amorim/gdash-project-challenge) |
+### Fluxo
 
-> Alguns projetos comerciais têm código privado, mas os links de produção e os cases públicos mostram o escopo técnico implementado.
+Editor web gratuito para criar, organizar, apresentar e exportar fluxogramas diretamente no navegador.
+
+- Canvas com blocos, formas, setas, conexões e atalhos de produtividade.
+- Importação/exportação `.flow`, exportação PNG, zoom, grid e modo apresentação.
+- Produto autoral publicado em produção.
+
+`React` · `TypeScript` · `Vite` · `TanStack Router` · `@xyflow/react` · `Vercel`
+
+[Aplicação](https://fluxo-nine-theta.vercel.app/) · [Repositório](https://github.com/alvaro-amorim/fluxo)
 
 ---
 
-## Projetos públicos recentes e estudos técnicos
+### Audio Emotion API
 
-| Projeto | O que demonstra | Links |
+API local-first para receber áudio, transcrever fala, extrair métricas acústicas e gerar contexto emocional estruturado para agentes de IA.
+
+- Upload e gravação de áudio com análise via API.
+- Transcrição com `faster-whisper` e processamento com FFmpeg.
+- Métricas acústicas, interpretação emocional, feedback humano e exportação de dataset local.
+- App cliente separado para testar o consumo da API e montar prompts para LLM.
+
+`Python` · `FastAPI` · `SQLite` · `SQLModel` · `FFmpeg` · `faster-whisper` · `Cohere` · `pytest`
+
+[API](https://github.com/alvaro-amorim/emotion-api) · [Client Demo](https://github.com/alvaro-amorim/audio-emotion-client-demo)
+
+---
+
+### SDR Expert CRM
+
+Mini CRM multi-tenant para operação comercial com pipeline, leads, campanhas e mensagens assistidas por IA.
+
+- Workspaces, autenticação, PostgreSQL com RLS e Edge Functions.
+- Pipeline em kanban, dashboard operacional e simulador público de atendimento.
+- Planejamento de campanhas e geração de mensagens com IA.
+
+`React` · `TypeScript` · `Vite` · `Supabase` · `PostgreSQL` · `OpenAI` · `Vitest`
+
+[Demo](https://sdr-crm-ai-wine.vercel.app/) · [Vídeo](https://youtu.be/tDCifuSgRc0) · [Repositório](https://github.com/alvaro-amorim/sdr-crm-ai)
+
+---
+
+### GDASH Analytics
+
+Plataforma full stack de monitoramento climático com dashboard, histórico, exportação de dados e pipeline orientada a eventos.
+
+- Frontend React, API NestJS, MongoDB, RabbitMQ, coletor Python e worker em Go.
+- Login, perfil por cidade, histórico climático, exportação CSV/XLSX e painel admin.
+- Insights com IA opcional e fallback local.
+
+`React` · `TypeScript` · `NestJS` · `MongoDB` · `RabbitMQ` · `Python` · `Go` · `Docker`
+
+[Aplicação](https://gdash-project-challenge.vercel.app/) · [Repositório](https://github.com/alvaro-amorim/gdash-project-challenge)
+
+---
+
+## Produtos e aplicações em produção
+
+Projetos com interface pública ou uso real, apresentados aqui pelo produto publicado e não pelo código-fonte.
+
+| Produto | Descrição | Link |
 |---|---|---|
-| **FemHealth ML Triage** | Machine Learning explicável, classificação supervisionada, Streamlit multipage, SHAP/coefs e documentação acadêmica | [Repo](https://github.com/alvaro-amorim/femhealth-ml-triage) |
-| **BabyBook** | PWA com i18n, privacidade por desenho, cadastro inicial, Supabase/RLS e fluxo de produto | [Repo](https://github.com/alvaro-amorim/babybook) |
-| **Checktask Explorer** | App local-first de tarefas em árvore, IndexedDB, drag and drop, JSON, PWA e empacotamento desktop com Tauri | [Repo](https://github.com/alvaro-amorim/checktask) |
-| **Robet** | Laboratório local de análise probabilística esportiva com FastAPI, PostgreSQL, React/Vite e simulações persistidas | [Repo](https://github.com/alvaro-amorim/robet) |
-| **Bolinha da Partida** | Pipeline Python para geração local de vídeos verticais esportivos com FFmpeg, assets, legendas, fontes e revisão humana | [Repo](https://github.com/alvaro-amorim/bolinhadapartida) |
-| **Score de Crédito** | Notebook de classificação com pandas, scikit-learn, Random Forest, KNN e previsão de novos registros | [Repo](https://github.com/alvaro-amorim/score-analise-IA) |
-| **Análise de Churn** | Exploração de cancelamento de clientes, insights de retenção, pandas, Plotly e simulação de recorte de risco | [Repo](https://github.com/alvaro-amorim/analise-dados-cancelamentos-de-clientes) |
-| **Portfolio Cases** | Documentação pública de cases, problemas, soluções, decisões técnicas e papel no desenvolvimento | [Repo](https://github.com/alvaro-amorim/portfolio-cases) |
+| **Comerc IAs** | Site institucional bilíngue com portfólio, catálogo comercial, analytics e área administrativa de conteúdo. | [Acessar](https://www.comercias.com.br/pt) |
+| **Margem App** | SaaS para ingredientes, fichas técnicas, precificação de receitas e rotulagem nutricional. | [Acessar](https://margemapp.com.br/) |
+| **LayerArt Store** | Loja online para impressão 3D personalizada, catálogo, chat de orçamento, leads e painel administrativo. | [Acessar](https://layerart-store.vercel.app/) |
+| **Rivals AI** | Produto social para criação, publicação e descoberta de debates gerados por IA. | [Acessar](https://www.airivals.com.br/) |
+| **Cardápio Glacê** | Cardápio digital com catálogo, personalização de produtos, carrinho e checkout assistido por WhatsApp. | [Acessar](https://cardapio-glace.vercel.app/) |
 
 ---
 
-## Sites e projetos comerciais aplicados
+## Laboratórios técnicos públicos
 
-- **Site Talitta Almeida** — site institucional e comercial para corretora, com imóveis, lançamentos, galeria, contato e experiência responsiva. [Repositório](https://github.com/alvaro-amorim/site-talita)
-- **Comerc IAs / portfólio comercial** — presença institucional, cases, catálogo e canais de orçamento. [Site](https://www.comercias.com.br/pt)
-
----
-
-## Trajetória acadêmica e estudos
-
-<details>
-<summary><strong>Ver histórico de evolução</strong></summary>
-
-<br />
-
-Os repositórios identificados como `MUNDO` e `NÍVEL` registram minha evolução prática em desenvolvimento web, React, Next.js, back-end, bancos de dados e construção de aplicações durante a graduação e estudos guiados.
-
-Eles permanecem no perfil como histórico de aprendizado. Os projetos em destaque acima representam melhor meu nível técnico atual e minha experiência recente com produtos completos.
-
-Também existem repositórios menores, experimentais ou sem documentação final, como estudos de IA local, visualização 3D, organizadores e protótipos. Esses projetos não foram colocados na vitrine principal para manter o README profissional e focado em evidências mais fortes.
-
-</details>
+| Projeto | Foco | Link |
+|---|---|---|
+| **FemHealth ML Triage** | Machine Learning explicável, Streamlit, classificação supervisionada e documentação ética em saúde. | [Repo](https://github.com/alvaro-amorim/femhealth-ml-triage) |
+| **Checktask Explorer** | App local-first de tarefas em árvore com IndexedDB, drag and drop, JSON, PWA e Tauri. | [Repo](https://github.com/alvaro-amorim/checktask) |
+| **BabyBook** | PWA com i18n, privacidade por desenho, Supabase/RLS e fluxo inicial de produto. | [Repo](https://github.com/alvaro-amorim/babybook) |
+| **Robet** | Laboratório local de análise probabilística esportiva com FastAPI, PostgreSQL e React/Vite. | [Repo](https://github.com/alvaro-amorim/robet) |
 
 ---
 
 ## O que meus projetos demonstram
 
-- Construção de aplicações completas, do conceito ao deploy
-- Desenvolvimento de áreas públicas, autenticadas e administrativas
-- Modelagem de dados, multi-tenancy, autenticação, permissões e RLS
-- Integração com IA, provedores externos, mídia, billing e APIs
-- Dashboards, analytics, workflows operacionais e automações
-- Testes, documentação, versionamento seguro e cuidado com ambiente de produção
-- Capacidade de atuar tanto em produtos próprios quanto em soluções comerciais para clientes
+- Construção de produtos completos, do conceito ao deploy.
+- Interfaces públicas, áreas autenticadas, dashboards e painéis administrativos.
+- Modelagem de dados, autenticação, permissões, multi-tenancy e RLS.
+- Integrações com IA, provedores externos, mídia, billing e APIs.
+- Testes, documentação, versionamento e cuidado com ambiente de produção.
+- Capacidade de atuar tanto em produtos próprios quanto em soluções aplicadas para negócios reais.
 
 ---
 
