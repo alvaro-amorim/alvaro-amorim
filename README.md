@@ -96,20 +96,6 @@ Mini CRM multi-tenant para operação comercial com pipeline, leads, campanhas e
 
 ---
 
-### GDASH Analytics
-
-Plataforma full stack de monitoramento climático com dashboard, histórico, exportação de dados e pipeline orientada a eventos.
-
-- Frontend React, API NestJS, MongoDB, RabbitMQ, coletor Python e worker em Go.
-- Login, perfil por cidade, histórico climático, exportação CSV/XLSX e painel admin.
-- Insights com IA opcional e fallback local.
-
-`React` · `TypeScript` · `NestJS` · `MongoDB` · `RabbitMQ` · `Python` · `Go` · `Docker`
-
-[Aplicação](https://gdash-project-challenge.vercel.app/) · [Repositório](https://github.com/alvaro-amorim/gdash-project-challenge)
-
----
-
 ## Produtos e aplicações em produção
 
 Projetos com interface pública ou uso real, apresentados aqui pelo produto publicado e não pelo código-fonte.
