@@ -23,7 +23,7 @@ Sou desenvolvedor Full Stack com foco em **produtos web, SaaS, sistemas internos
 
 Atuo na construção de soluções completas: estruturação do produto, arquitetura, interface, backend, banco de dados, autenticação, áreas administrativas, integrações externas, deploy e documentação técnica.
 
-Meu portfólio atual prioriza projetos mais recentes e aplicados, especialmente produtos próprios, MVPs em produção e sistemas com uso real. Repositórios antigos de estudo e exercícios acadêmicos não estão destacados aqui para manter a apresentação objetiva e profissional.
+Meu portfólio atual prioriza projetos mais recentes e aplicados, especialmente produtos próprios, MVPs em produção e sistemas com uso real.
 
 **Interesses profissionais:** Full Stack · Front-end React/Next.js · Back-end Node/Python · SaaS · Automações · IA aplicada
 
