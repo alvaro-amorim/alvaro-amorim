@@ -7,12 +7,12 @@ Desenvolvo aplicações web e produtos digitais de ponta a ponta, unindo interfa
 📍 Juiz de Fora, MG · Disponível para oportunidades presenciais, híbridas e remotas
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Álvaro_Amorim-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/alvaro-amorim-fullstack/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-comercias.com.br-111827?style=flat&logo=vercel)](https://www.comercias.com.br/pt)
+[![Portfólio](https://img.shields.io/badge/Portfólio-Acessar-111827?style=flat&logo=vercel)](https://curriculum-vitae-babr.vercel.app/)
 [![E-mail](https://img.shields.io/badge/E--mail-alvaroaom.jf%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:alvaroaom.jf@gmail.com)
 
 ## Sobre mim
 
-- Tecnólogo em Desenvolvimento Full Stack e pós-graduando em **AI for Devs pela FIAP**.
+- Tecnólogo em Desenvolvimento Full Stack e pós-graduando em **IA para Devs pela FIAP**.
 - Experiência prática na construção de SaaS, sistemas administrativos, lojas virtuais e soluções com IA.
 - Atuação em todo o ciclo do produto: entendimento do problema, regras de negócio, arquitetura, desenvolvimento, testes, documentação e publicação.
 - Busco minha primeira oportunidade profissional na área de tecnologia como **Desenvolvedor Full Stack Júnior**.
