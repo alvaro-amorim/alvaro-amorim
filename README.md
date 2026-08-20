@@ -61,5 +61,5 @@ Veja os detalhes, desafios e decisões técnicas em [Casos de Projeto](https://g
 Estou em busca da minha primeira oportunidade como desenvolvedor e aberto a colaborar em produtos que resolvam problemas reais.
 
 - [LinkedIn](https://www.linkedin.com/in/alvaro-amorim-fullstack/)
-- [Portfólio](https://www.comercias.com.br/pt)
+- [Portfólio](https://curriculum-vitae-babr.vercel.app/)
 - [alvaroaom.jf@gmail.com](mailto:alvaroaom.jf@gmail.com)
