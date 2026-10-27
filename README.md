@@ -1,67 +1,42 @@
 # Álvaro Amorim
 
-**Desenvolvedor Full Stack Júnior | React, Next.js, TypeScript, Node.js, Python e PostgreSQL**
+**Desenvolvedor Júnior | Full Stack e IA aplicada**
 
-Desenvolvo aplicações web e produtos digitais de ponta a ponta, unindo interface, APIs, banco de dados, autenticação, testes, deploy e inteligência artificial aplicada.
+Construo aplicações web para negócios e desenvolvo projetos de dados, machine learning e otimização em Python. Meu foco é transformar regras e problemas em software que possa ser testado, explicado e mantido.
+
+Sou tecnólogo em Desenvolvimento Full Stack e pós-graduando em **AI for Devs pela FIAP**. Busco oportunidades júnior em desenvolvimento Full Stack e desenvolvimento com Python/IA.
 
 📍 Juiz de Fora, MG · Disponível para oportunidades presenciais, híbridas e remotas
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Álvaro_Amorim-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/alvaro-amorim-fullstack/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-Acessar-111827?style=flat&logo=vercel)](https://curriculum-vitae-babr.vercel.app/)
-[![E-mail](https://img.shields.io/badge/E--mail-alvaroaom.jf%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:alvaroaom.jf@gmail.com)
+[Portfólio](https://curriculum-vitae-babr.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/alvaro-amorim-fullstack/)
 
-## Sobre mim
+## Produtos web e aplicações de negócio
 
-- Tecnólogo em Desenvolvimento Full Stack e pós-graduando em **IA para Devs pela FIAP**.
-- Experiência prática na construção de SaaS, sistemas administrativos, lojas virtuais, APIs e soluções com IA.
-- Atuação em todo o ciclo do produto: entendimento do problema, regras de negócio, arquitetura, desenvolvimento, testes, documentação e publicação.
-- Busco minha primeira oportunidade profissional na área de tecnologia como **Desenvolvedor Full Stack Júnior**.
+| Projeto | Problema e evidência | Acessar |
+|---|---|---|
+| **Margem App** | SaaS de custos, fichas técnicas e precificação para negócios de alimentação. Reúne regras de cálculo, planos e cobrança. **83 usuários**, conforme atualização de 27/10/2026. | [Aplicação](https://margemapp.com.br/) |
+| **Ecossistema Glacê** | Cardápio público integrado ao sistema administrativo de pedidos, estoque e financeiro. Inclui regras de reserva, confirmação e cancelamento de pedidos. | [Cardápio público](https://cardapio-glace.vercel.app/) |
+| **LayerArt Store** | Demonstração de plataforma para impressão 3D, com catálogo, chat de orçamento, gestão de leads e painel administrativo para conteúdo e produtos. | [Aplicação](https://layerart-store.vercel.app/) |
 
-## Projetos em produção
+Os códigos de Margem, Glacê e LayerArt são privados. As aplicações acima permitem conhecer a experiência pública; áreas administrativas exigem autenticação. LayerArt é apresentado como solução desenvolvida, sem alegação de adoção comercial.
 
-Projetos desenvolvidos para produtos próprios e negócios reais. Os sistemas abaixo possuem demonstrações públicas acessíveis diretamente pelo navegador.
+## IA, dados e algoritmos
 
-| Projeto | O que foi desenvolvido | Tecnologias | Acessar |
-|---|---|---|---|
-| **Margem App** | SaaS para negócios de alimentação com ingredientes, fichas técnicas, receitas, precificação, tabela nutricional, billing, multi-workspace e IA aplicada. | Next.js · React · TypeScript · Prisma · PostgreSQL · Supabase · IA | [🌐 Abrir Margem App](https://margemapp.com.br/) |
-| **Glacê** | Ecossistema para confeitaria com cardápio digital, personalização de produtos, carrinho, pedidos e integração com o sistema operacional de estoque e financeiro. | React · JavaScript · APIs REST · Bootstrap · Jest · Vercel | [🌐 Abrir Cardápio Glacê](https://cardapio-glace.vercel.app/) |
-| **LayerArt Store** | Plataforma para negócio de impressão 3D com catálogo, chat de orçamento, leads, painel administrativo, analytics, backend e banco de dados. | Next.js · React · TypeScript · Supabase · PostgreSQL · Cloudinary · IA | [🌐 Abrir LayerArt Store](https://layerart-store.vercel.app/) |
+**Fluxmed — otimização de distribuição médica**  
+Projeto acadêmico com algoritmo genético, restrições operacionais, dados geográficos e comparação experimental em 16 cenários sintéticos. A aplicação combina React, FastAPI e PostgreSQL/PostGIS; o assistente de IA interpreta dados do planejamento. Código privado e vídeo de demonstração em preparação.
 
-> Os repositórios dos projetos comerciais são privados. As aplicações publicadas acima permitem avaliar diretamente a experiência e as funcionalidades desenvolvidas.
+**[FemHealth Clinical AI](https://github.com/alvaro-amorim/femhealth-clinical-ai)**  
+Projeto acadêmico de classificação tabular com análise exploratória, comparação e calibração de modelos, avaliação final, explicabilidade e disponibilização por API. Possui model card, testes e documentação dos limites. **Sem validação para uso clínico.**  
+[Demonstração](https://youtu.be/ui-k60XdLRE) · [Model card](https://github.com/alvaro-amorim/femhealth-clinical-ai/blob/main/docs/MODEL_CARD.md)
 
-## Projeto acadêmico em destaque
+**[Emotion API](https://github.com/alvaro-amorim/emotion-api)**  
+API experimental para transcrição de áudio, métricas acústicas e contexto interpretativo para agentes de IA. Combina processamento local, heurísticas e integração opcional com LLM.  
+[Cliente de demonstração](https://github.com/alvaro-amorim/audio-emotion-client-demo)
 
-### [FemHealth — Clinical AI](https://github.com/alvaro-amorim/femhealth-clinical-ai)
+## Ferramentas e outros trabalhos
 
-Projeto de machine learning voltado ao apoio à triagem de risco de câncer de mama, desenvolvido no Tech Challenge da pós-graduação **AI for Devs da FIAP** e avaliado com **nota máxima: 90/90**.
+- **Desenvolvimento web:** TypeScript, React, Next.js e PostgreSQL.
+- **Dados e algoritmos:** Python, SQL, Pandas e scikit-learn.
+- **Prática de engenharia:** APIs, modelagem de dados, testes e documentação, conforme o contexto de cada projeto.
 
-O projeto implementa um pipeline reproduzível de classificação com comparação de modelos, ajuste e calibração, avaliação final, explicabilidade, persistência do modelo, API com FastAPI, interface em Streamlit, testes automatizados e integração contínua.
-
-**Destaques:** Python · Scikit-learn · Machine Learning · FastAPI · Streamlit · explicabilidade · testes automatizados · GitHub Actions
-
-[💻 Ver repositório](https://github.com/alvaro-amorim/femhealth-clinical-ai) · [▶️ Ver demonstração](https://youtu.be/ui-k60XdLRE)
-
-## Repositórios selecionados
-
-| Projeto | O que demonstra |
-|---|---|
-| [SDR CRM com IA](https://github.com/alvaro-amorim/sdr-crm-ai) | Desenvolvimento full stack, regras de negócio e integração de IA em um produto. |
-| [Fluxo](https://github.com/alvaro-amorim/fluxo) | Construção de interface e experiência de produto com tecnologias web modernas. |
-| [Emotion API](https://github.com/alvaro-amorim/emotion-api) | Backend em Python, API, testes automatizados e documentação técnica. |
-| [CheckTask](https://github.com/alvaro-amorim/checktask) | Aplicação focada em produtividade e experiência local-first. |
-
-## Tecnologias
-
-- **Front-end:** React, Next.js, TypeScript, JavaScript, Tailwind CSS e Bootstrap
-- **Back-end:** Node.js, Python, FastAPI e APIs REST
-- **Banco de dados:** PostgreSQL, Supabase, Prisma, MongoDB e modelagem de dados
-- **Engenharia:** Git, GitHub, testes automatizados, documentação, Docker e CI/CD
-- **IA aplicada:** machine learning, OpenAI, Gemini, integração com modelos de IA e análise de dados
-
-## Vamos conversar?
-
-Estou em busca da minha primeira oportunidade como desenvolvedor e aberto a colaborar em produtos que resolvam problemas reais.
-
-- [LinkedIn](https://www.linkedin.com/in/alvaro-amorim-fullstack/)
-- [Portfólio](https://curriculum-vitae-babr.vercel.app/)
-- [alvaroaom.jf@gmail.com](mailto:alvaroaom.jf@gmail.com)
+Também mantenho o **[Fluxo](https://github.com/alvaro-amorim/fluxo)**, editor visual de fluxogramas, e o **[SDR CRM](https://github.com/alvaro-amorim/sdr-crm-ai)**, aplicação comercial com workspaces e mensagens assistidas por IA.
