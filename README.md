@@ -22,7 +22,7 @@ Os códigos de Margem, Glacê e LayerArt são privados. As aplicações acima pe
 
 ## IA, dados e algoritmos
 
-**Fluxmed — otimização de distribuição médica**  
+**[Fluxmed — otimização de distribuição médica](https://github.com/alvaro-amorim/fluxmed)**  
 Projeto acadêmico com algoritmo genético, restrições operacionais, dados geográficos e comparação experimental em 16 cenários sintéticos. A aplicação combina React, FastAPI e PostgreSQL/PostGIS; o assistente de IA interpreta dados do planejamento. Código privado e vídeo de demonstração em preparação.
 
 **[FemHealth Clinical AI](https://github.com/alvaro-amorim/femhealth-clinical-ai)**  
